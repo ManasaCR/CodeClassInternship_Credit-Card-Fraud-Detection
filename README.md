@@ -1,1 +1,1 @@
-# CodeClassInternship_Credit-Fraud-Detection
+# CodeClassInternship_Credit card fraud detection
